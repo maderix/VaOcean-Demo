@@ -1,0 +1,3 @@
+[submodule "Plugins/VaOcean"]
+	path = Plugins/VaOcean
+	url = git@github.com:ufna/VaOcean.git
